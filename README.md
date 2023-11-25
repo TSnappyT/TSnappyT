@@ -14,7 +14,7 @@
  
  🌱 Every game release is an adventure - sometimes more for the developer than the players.**
 
-💬 Ask me about **How to turn a coding error into the next big game feature., My journey from code to prose: How storytelling influences my game design .... or anything😃 [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **How to turn a coding error into the next big game feature., My journey from code to prose: How storytelling influences my game design .... or anything😃 [here](https://github.com/tsnappyt/tsnappyt/issues)**
 
 ⚡ Fun fact **deadlines are more of a guideline, and 'final version' is just another way of saying 'let's add a new feature'**
 
@@ -31,7 +31,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=cpp,java,unreal,unreal,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=cpp,java,unreal,blender,vscode,github,git,r" />
 </div>
 
 <br/>
@@ -40,7 +40,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/tsnappyt/tsnappyt/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>

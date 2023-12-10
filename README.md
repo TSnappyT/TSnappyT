@@ -47,13 +47,6 @@
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-   
-  <img width=390 src="https://github-readme-stats-pi-amber-65.vercel.app/api?username=tsnappyt&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats"/>
-  <br/>
-</div>
 
 <br/><br/>
 
